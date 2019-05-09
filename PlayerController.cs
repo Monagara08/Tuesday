@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement; // LoadSceneを使うために必要！！
+using UnityEngine.SceneManagement; // LoadSceneを使えるように
 
 public class PlayerController : MonoBehaviour
 {
